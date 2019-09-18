@@ -17,7 +17,7 @@ namespace vidddeeoo_sttore.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page. Donutssss";
 
             return View();
         }
@@ -43,3 +43,4 @@ namespace vidddeeoo_sttore.Controllers
         }
     }
 }
+////fsdfs
